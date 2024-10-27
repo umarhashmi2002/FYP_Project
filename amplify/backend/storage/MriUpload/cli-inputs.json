@@ -1,0 +1,18 @@
+{
+  "resourceName": "MriUpload",
+  "policyUUID": "f5f3cad2",
+  "bucketName": "mriprojectc260d33ae87942728be0e45d9d0c1aed",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "S3Triggerb1816c7f",
+  "groupAccess": {}
+}

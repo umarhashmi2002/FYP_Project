@@ -1,0 +1,31 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-fypproject-dev-58355-authRole",
+      "UnauthRoleArn": "arn:aws:iam::503561414757:role/amplify-fypproject-dev-58355-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::503561414757:role/amplify-fypproject-dev-58355-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-fypproject-dev-58355-deployment",
+      "UnauthRoleName": "amplify-fypproject-dev-58355-unauthRole",
+      "StackName": "amplify-fypproject-dev-58355",
+      "StackId": "arn:aws:cloudformation:us-east-1:503561414757:stack/amplify-fypproject-dev-58355/351dfbf0-9440-11ef-b39a-0e521048e2cb",
+      "AmplifyAppId": "dg0opwwztqgdf"
+    },
+    "categories": {
+      "auth": {
+        "fypproject5436efb8": {}
+      },
+      "function": {
+        "S3Triggerb1816c7f": {
+          "deploymentBucketName": "amplify-fypproject-dev-58355-deployment",
+          "s3Key": "amplify-builds/S3Triggerb1816c7f-52564169586a374c7656-build.zip"
+        },
+        "SagemakerTrigger": {},
+        "apitrigger": {}
+      },
+      "storage": {
+        "MriUpload": {}
+      }
+    }
+  }
+}
